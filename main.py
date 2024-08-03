@@ -53,7 +53,7 @@ with tab1:
             if 'Rifampin' in sensitivities_sorted.index:
                 st.write('**Rifampin should not be used alone for antimicrobial therapy**')
             
-            st.divider()
+            st.write("---")
 
 with tab2:
     st.title("Antibiotics Search")
