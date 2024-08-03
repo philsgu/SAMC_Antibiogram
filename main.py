@@ -50,8 +50,8 @@ with tab1:
             st.dataframe(sensitivities_sorted)
             
             # Check if Rifampin is in the sensitivities and add a note
-            if 'Rifampin' in sensitivities_sorted.index:
-                st.write('**Rifampin should not be used alone for antimicrobial therapy**')
+            if 'Rifampin**' in sensitivities_sorted.index:
+                st.write('** **Rifampin should not be used alone for antimicrobial therapy**')
             
             st.write("---")
 
