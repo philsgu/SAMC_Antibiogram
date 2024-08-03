@@ -1,0 +1,9 @@
+Organism,Gram Stain Type,No. Isolates (Tot. 1130),Ampicillin,Ampicillin/Sulbactam,Amoxicillin/Clavulanic Acid,Azithromycin,Cefazolin,Ceftriaxone,Clindamycin,Erythromycin,Gentamicin,Levofloxacin,Oxacillin,Penicillin,Rifampin**,Tetracycline,TMP/SMX,Vancomycin,Linezolid,Daptomycin
+Staphylococcus aureus (All Isolates),Pos.,791,0,64,64,-,64,64,76,52,94,58,64,-,99,89,99,100,100,100
+Methicillin Resistant (MRSA),Pos.,288,0,0,0,-,0,0,67,17,90,11,0,-,97,77,98,100,100,100
+Methicillin Sensitive (MSSA),Pos.,503,0,100,100,-,100,100,81,70,97,84,100,-,100,96,100,100,100,100
+Coagulase Neg. Staphylococcus,Pos.,437,0,48,48,-,48,48,63,37,88,68,48,-,97,82,70,100,100,100
+Enterococcus faecalis,Pos.,386,100,-,-,-,-,82,-,-,82,-,100,46,26,-,97,99,100,100
+Enterococcus faecium,Pos.,122,9,-,-,-,-,8,-,-,8,-,8,2,47,-,28,92,87,-
+Streptococcus pneumoniae (non-meningitis),Pos.,24,-,-,96,83,100,92,83,-,100,-,-,-,100,96,100,-,-,-
+Streptococcus pneumoniae (meningitis),Pos.,24,-,-,-,-,96,-,-,-,100,88,-,-,-,-,100,-,100,-

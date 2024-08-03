@@ -1,0 +1,37 @@
+Agent,Cost,Class,Adult Dosage,Comment
+Ampicillin,$,Penicillins,IV 1-2 gm q4-6 hr,Dose Depends on site & severity of infection.
+Penicillin G,$,Penicillins,IV 1-4 M.Units q4-6 hr,High dose > 20 million(M) units/day
+Nafcillin,$$,Anti-Staph Penicillins,IV 1-2 gm q4-6 hr,Dose depends on site & severity of infection
+Amoxicillin/clavulanate (Augmentin),$,Beta-Lactamase Inhibitors,PO 250-500 mg q8 hr,Oral only. Can use to transition IV to PO.
+Ampicillin/sulbactam (Unasyn),$,Beta-Lactamase Inhibitors,IV 1.5-3 gm q6 hr,Not active against Pseudomonas or Serratia; limited Enterobacter activity.
+Piperacillin/tazobactam (Zosyn),$$,Beta-Lactamase Inhibitors,IV 2.25-4.5 gm q6 hr,"Active against some species of Pseudomonas, Serratia, Citrobacter, and Enterobacter."
+Cefazolin,$,1st Generation Cephalosporin,IV 1-2 gm q8 hr,More frequent dosing dosing rarely needed. Adjust dose for renal impairment
+Cefoxitin,$$,2nd Generation Cephalosporin,IV 1-2 gm q6-8 hr,Adjust dose for renal impairment
+Cefuroxime,$,2nd Generation Cephalosporin,"IV 0.75-1.5 gm q8 hr, PO 250-500 mg q12 hr",Adjust dose for renal impairment
+Cefepime,$,4th Generation Cephalosporin,IV 1-2 gm q12 hr,More active against Enterobacter sp.  Adjust dose for renal impairment
+Ceftazidime,$,3rd Generation Cephalosporin,IV 1-2 gm q8 hr,More active against Pseudomonas sp. Adjust dose for renal impairment
+Ceftriaxone,$,3rd Generation Cephalosporin,IV 1-2 gm q24 hr,No adjusment for renal impairment.
+Impipenem/cilastatin,$$,Carbapenem,IV 0.5-1 gm q6-8 hr,"Broad spectrum, usually reserved for infections resistant to other antibiotics."
+Meropenem,$$,Carbapenem,IV 0.5-1 gm q8 hr,Adjust dose for renal impairment.
+Ertapenem,$$$,Carbapeneum,IV 1gm q24 hr,Poor activity against Pseudomonas and Acinebtobacter. *Requires ID/ASP approval*
+Aztreonam,$$$$,Monobactam,IV 1-2 gm q6 hr,Aerobic gram negative acitivty only. Minimal cross-reactivity in penicillin allergic patients.  Adjust dose for renal impairment
+Amikacin,$$,Aminoglycosides,IV/IM 15-20 mg/kg/day in 2-3 divided doses,Adjust dose for renal impairment
+Gentamicin,$,Aminoglycosides,IV/IM 3-6 mg/kg/day in 2-3 divided doses,Once daily dosing available. Pharmacy dosing service available upon request.
+Tobramycin,$,Aminoglycosides,IV/IM 3-6 mg/kg/day in 2-3 divided doses,
+Azithromycin,$,Macrolides,"PO 250-500 mg q24 hr
+IV 500 mg q24 hr",Change to PO when GI functional. Similar PO/IV efficacy.
+Erythromycin,"$
+$$$",Macrolides,"PO 250-500 mg q6 hr
+IV 0.5-1 gm q6 hr",Higher doses for Legionella.  Change to PO when GI functional.  Similar PO/IV efficacy.
+Ciprofloxin,$,Quinolone,"PO 250-750 mg q12 hr
+IV 200-400 mg q8-12 hr",Change to PO when GI functional. Similar PO/IV efficacy.  Adjust dose for renal impairment.
+Levofloxcin,$,Quinolone,PO/IV 250-750 mg q24 hr,Change to PO when GI functional. Similar PO/IV efficacy.  Adjust dose for renal impairment.
+Clindamycin,$,Other Antibiotics,"PO 150-450 mg q6 hr
+IV 600-900 mg q8 hr
+PO 100 mg q8 hr",Change to PO when GI functional. Similar PO/IV efficacy.
+Doxycycline,$,Other Antibiotics,"PO 100 mg q12 hr
+IV 100 mg q12 hr",Change to PO when GI functional. Similar PO/IV efficacy.
+Metronidazole,$,Other Antibiotics,PO/IV 500mg q6 hr,Change to PO when GI functional. Similar PO/IV efficacy.
+"Trimethoprim/Sulfa
+(Bactrim/Septra)",$$,Other Antibiotics,IV 15-20 mg/kg/day TMP component in 4 divided doses,Change to PO when GI functional. Similar PO/IV efficacy.
+Vancomycin,$$,Other Antibiotics,IV 10-15 mg/kg q12 hr to start,Monitor SCr and drug levels.  Pharmacy dosing service available upon request.
