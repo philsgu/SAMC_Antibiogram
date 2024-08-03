@@ -3,7 +3,7 @@ import pandas as pd
 import re
 
 st.header("SAMC 2024 ANTIBIOTIC SUSCEPTIBILITY REPORT (2023 Data)")
-st.write("Please select the organisms and antibiotics you wish to search. Table results can be downloaded as a CSV, sorted alphabetically, and be further searched within the table. If you wish to download 2024 SAMC Antibiogram, please click here: [Download SAMC 2024 antibiogram](2024_antibiogram_data.pdf)", unsafe_allow_html=True)
+st.write("Please select the organisms and antibiotics you wish to search. Table results can be downloaded as a CSV, sorted alphabetically, and be further searched within the table. If you wish to download 2024 SAMC Antibiogram, please click here: [Download SAMC 2024 antibiogram](https://github.com/philsgu/SAMC_Antibiogram/blob/655d461e3a2c97fd7d9dce5dbc7e46393427623c/2024_antibiogram_data.pdf)", unsafe_allow_html=True)
 # Load the data
 df = pd.read_csv('merged_df.csv')
 antibiotics_df = pd.read_csv('antibiotics_samc.csv')
